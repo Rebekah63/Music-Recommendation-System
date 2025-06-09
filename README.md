@@ -23,4 +23,4 @@ These features form the foundation for our analysis and model development to imp
 ## Tools used 
 1. Python ( Data manipulation , Exploratory data Analysis , Visualization)
 2. Machine Learning Algorithms to make predictions ( Supervised and Unsupervised learning )
-3. Google slides - Presentation 
+3. Microsoft Powerpoint - Presentation 
