@@ -1,5 +1,5 @@
 # Music-Recommendation-System
-This is a group project with my team mates at Refactory Academy . We worked on a song recommendation system for local music  startups in Uganda.All credit goes my group for the effort and teamwork on this project.
+This is a group project with my team mates at Refactory Academy . We worked on a song recommendation system for local music  startups in Uganda. We borrowed the spotify data set from Kaggle .All credit goes to my group for the dedication , effort and teamwork on this project.
 
 ## Problem statement 
 Many local streaming platforms face low user retention because their recommendation systems are inefficient, causing users to leave for competitors with better personalized music suggestions-impacting users’ satisfaction, the platform’s growth, and artists’ exposure.
