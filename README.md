@@ -22,8 +22,9 @@ These features form the foundation for our analysis and model development to imp
 
 ## Tools used 
 1. Python ( Data manipulation , Exploratory data Analysis , Visualization)
-2. Machine Learning Algorithms to make predictions ( Supervised and Unsupervised learning )
-3. Microsoft Powerpoint - Presentation
+2. Scikit-learn , tensorflow
+3. Machine Learning Algorithms to make predictions ( Supervised and Unsupervised learning )
+4. Microsoft Powerpoint - Presentation
 
 ##  Results & Insights
 - Random Forest: 86% accuracy, 77% recall for "liked" songs.
