@@ -23,4 +23,16 @@ These features form the foundation for our analysis and model development to imp
 ## Tools used 
 1. Python ( Data manipulation , Exploratory data Analysis , Visualization)
 2. Machine Learning Algorithms to make predictions ( Supervised and Unsupervised learning )
-3. Microsoft Powerpoint - Presentation 
+3. Microsoft Powerpoint - Presentation
+
+##  Results & Insights
+- Random Forest: 86% accuracy, 77% recall for "liked" songs.
+- K-Means Clustering: 5 meaningful song groups identified via PCA.
+- Business Impact: Better ad targeting, artist feedback, and user retention.
+
+## Team & Acknowledgments
+Developed by Group 7 at Refactory Academy:
+1. Wendy Mbabazi 
+2. Zaina Namugabo
+3. Namuyanja K Rebecca
+4. Mugisha Isaac
